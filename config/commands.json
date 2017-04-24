@@ -1,0 +1,19 @@
+{
+	"help": {
+		"alias": [ "halp" ],
+		"endpoint": "#",
+		"help": "help [command](optional)",
+		"description": "To get help on all supported commands, or a specified command"
+	},
+
+	"error": {
+		"exclude": true
+	},
+
+    "yell": {
+        "alias": ["scream", "shout", "holla", "loudnoises"],
+        "endpoint": "#",
+        "help": "yell [phrase]",
+        "description": "Sprinkle in a little anger."
+    }
+}
