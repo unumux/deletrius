@@ -15,5 +15,11 @@
         "endpoint": "#",
         "help": "yell [phrase]",
         "description": "Sprinkle in a little anger."
+    },
+
+    "weather": {
+        "alias": [],
+        "help": "weather [zip code]",
+        "description": "See the weather for a specified zip code."
     }
 }
