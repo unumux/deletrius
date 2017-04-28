@@ -4,7 +4,8 @@
   "description": "Practice bot",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.65.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0",
     "slack-terminalize": "^1.0.0"
   },
   "scripts": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/unumux/deletrius/issues"
   },
-  "homepage": "https://github.com/unumux/deletrius#readme"
+  "homepage": "https://github.com/unumux/deletrius#readme",
+  "devDependencies": {
+    "typescript": "^2.3.1"
+  }
 }

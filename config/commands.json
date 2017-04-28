@@ -21,5 +21,11 @@
         "alias": [],
         "help": "weather [zip code]",
         "description": "See the weather for a specified zip code."
+    },
+
+    "weatherts": {
+        "alias": [],
+        "help": "weatherts [zip code]",
+        "description": "See the weather for a specified zip code."
     }
 }
